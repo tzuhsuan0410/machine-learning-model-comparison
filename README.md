@@ -17,8 +17,8 @@ Two datasets were used:
   
 (Dataset used for the project is from a public source and is in Chinese.)
 
-Detailed variable descriptions are provided in the `Codebook/` directory
-The datasets are not included in this repository due to course policy.
+Detailed variable descriptions are provided in the `Codebook/` directory.
+
 
 ## Methods
 For both tasks, the following steps were applied:
