@@ -17,7 +17,7 @@ Two datasets were used:
   
 (Dataset used for the project is from a public source and is in Chinese.)
 
-Detailed variable descriptions are provided in the `Codebook/` directory.
+Detailed variable descriptions are provided in the `codebook/` directory.
 
 
 ## Methods
