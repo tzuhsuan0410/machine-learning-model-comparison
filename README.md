@@ -39,7 +39,9 @@ Models compared:
 - Regression: MAE, MAPE, MSE, RMSE
 
 ## Results
-Results and analysis are presented in the notebooks and saved in the `results/` directory.
+Concise summaries of classification and regression results are provided in the `results/` directory.
+
+Detailed experiments and model comparisons are documented in the Jupyter notebooks under the `notebooks/` directory.
 
 ## Tech Stack
 - Python
