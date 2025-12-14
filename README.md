@@ -14,7 +14,8 @@ The project was completed as part of an MSc Machine Learning coursework.
 Two datasets were used:
 - A classification dataset: Predicting stroke occurrence (Yes/No).
 - A regression dataset: Predicting supermarket organic products spending amount.
-(Dataset used for the project is from a public source (name not recalled) and is in Chinese.)
+  
+(Dataset used for the project is from a public source and is in Chinese.)
 
 Detailed variable descriptions are provided in `codebook.md`.
 The datasets are not included in this repository due to course policy.
