@@ -27,10 +27,10 @@ For both tasks, the following steps were applied:
 
 Models compared:
 - Logistic Regression/ Linear Regression
-- CART
-- KNN
-- SVM
-- Random Forest
+- CART (Decision Tree)
+- K-Nearest Neighbors (KNN)
+- Support Vector Machine (SVM)
+- Random Forest (RF)
 
 ## Evaluation Metrics
 - Classification: Accuracy, Precision, Sensitivity, Specificity, F1-Score, AUC, Confusion Matrix
